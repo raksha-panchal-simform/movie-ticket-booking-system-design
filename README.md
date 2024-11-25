@@ -1,1 +1,1 @@
-# movie-ticket-booking-system-design
+# Movie-Ticket-Management-System-Design
